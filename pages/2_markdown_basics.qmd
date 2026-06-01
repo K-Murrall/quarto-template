@@ -4,4 +4,36 @@ title: "Exercise 2. Markdown basics"
 
 # My markdown page
 ## Section one
+
+---
+
 ### A smaller section
+
+This is how to create **bold** text
+
+This is how to create _italic_ text
+
+* This is how to create
+    * a bullet point list
+
+1. Numbered point 1
+    a. Numbered point level 2 
+    b. Numbered point level 2 again
+2. Back to level 1
+
+
+* [ ] First task
+* [x] Finished task
+
+
+> This is how to indent text
+
+Run `python script.py` in your terminal.
+
+Make a table:
+
+| Letter | Number |
+| - | - |
+| A | 1 |
+| B | 2 |
+| C | 3 |
