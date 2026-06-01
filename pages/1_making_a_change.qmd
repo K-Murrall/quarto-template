@@ -3,3 +3,5 @@ title: "Exercise 1. Making a change"
 ---
 
 Can add details of project here.
+
+Donors, data types, etc.
